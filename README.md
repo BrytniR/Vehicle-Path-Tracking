@@ -1,4 +1,4 @@
-# Vehicle-Path-Tracking
+# Path-Tracking
 Demonstrating various feedback controllers using LEGO Mindstorms robot with java programming
 Lejos hardware library is also used for the actuators and sensors.
 
